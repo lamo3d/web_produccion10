@@ -1,0 +1,16 @@
+Subject: <!--$Subject-->
+From: <!--$From-->
+To: <!--$To-->
+Cc: <!--$Cc-->
+Bcc:
+Format: TEXT
+
+Para informale el Listado de Objetos que han tenido 
+cambios el dia de ayer no reflejados en la pagina: 
+
+CAMBIOS:
+<!--objetos-->
+
+
+
+Por favor realizar el analisis y coordinaciones correspondientes.

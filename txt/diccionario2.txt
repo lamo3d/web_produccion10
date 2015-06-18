@@ -1,0 +1,16 @@
+Subject: <!--$Subject-->
+From: <!--$From-->
+To: <!--$To-->
+Cc:
+Bcc:
+Format: HTML
+
+<htlm>
+ 
+<p>Equipo de Sistemas para informarles que se ha creado o modifcado una tabla, o agregado un campo a una tabla existente.</p>
+<p>Usuario: <!--usuario-->
+<p>Proyecto: <!--proyecto-->
+<p>Requerimiento: <!--requerimiento-->
+<p><!--base-->
+
+</html>

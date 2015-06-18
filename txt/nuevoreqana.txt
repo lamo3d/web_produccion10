@@ -1,0 +1,24 @@
+Subject: <!--$Subject-->
+From: <!--$From-->
+To: <!--$To-->
+Cc:
+Bcc:
+Format: TEXT
+
+Estimados Jefe de Proyecto y Analista, ustedes tiene una nuevo requerimiento de desarrollo por atender.
+- Sr. Analista-Desarrollador, verifique su tiempo asignado al requerimiento, cualquier consulta o modificacion del mismo tratarlo con su jefe de proyecto.
+- Realice el analisis correspondiente con el lider usuario.
+- Realice el desarrollo del mismo y su documentación tecnica respectiva.
+- Actualice el avance de la atencion del requerimiento en la pagina de sistemas.
+- Luego realice el pase a produccion, adjuntando su plan de pruebas y demas documentacion correspondiente.
+
+Los Detalles del Requerimiento son los siguientes:
+
+CodReque:	<!--key-->
+Titulo:		<!--Subject-->
+Usuario:	<!--usuario-->
+Fecha Inicio:	<!--fechinicio-->
+Fecha Fin:	<!--fechfin-->
+Tipo:		<!--tipo-->
+Sistema:	<!--sistema-->
+

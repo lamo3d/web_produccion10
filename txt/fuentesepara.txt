@@ -1,0 +1,29 @@
+Subject: <!--$Subject-->
+From: <!--$From-->
+To: <!--$To-->
+Cc:
+Bcc:
+Format: TEXT
+
+Sres. Analistas, para comunicarles que se ha separado el siguiente fuente:
+
+Sistema:	<!--sistema-->
+Módulo:		<!--modulo-->
+Fuente:		<!--fuente-->
+Analista:	<!--analista-->
+
+
+Pdta: Al momento de separar fuentes tener presente las siguientes consideraciones:
+
+- Si el desarrollo es sobre una librería, el analista debe separar la librería y las fuentes principales afectadas por la misma.
+
+- Si el desarrollo es sobre una fuente principal el analista deberá separar solo la fuente principal.
+
+- Si el desarrollo es sobre un formulario el analista deberá separar el formulario y la fuente principal.
+
+- El pase del aplicativo de Preventa y facturación del sistema SAI deberá ir acompañada con las librerías: pc012 (SFI) y vt900 (SAI).
+
+- Usted deberá realizar la separación del fuente en el momento inicial del desarrollo y no recien al realizar el pase.
+
+- Usted no podra realizar el pase de cualquier aplicativo si no ha realizado previamente la separación del fuente.
+

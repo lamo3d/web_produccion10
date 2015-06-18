@@ -1,0 +1,23 @@
+Subject: <!--$Subject-->
+From: <!--$From-->
+To: <!--$To-->
+Cc: <!--$Cc-->
+Bcc:
+Format: TEXT
+
+Estimado usuario, 
+
+La siguiente alerta debe ser atendida:
+<!--alerta-->
+
+La cual hace referencial al requerimiento:
+<!--reque-->
+
+Esta información debería actualizarce de manera:
+<!--periodo-->
+<!--detperiodo-->
+
+Responsables:
+<!--responsables-->
+
+Por favor atiendan esta alerta de manera urgente, dada la criticidad del asunto.

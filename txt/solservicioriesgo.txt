@@ -1,0 +1,17 @@
+Subject: <!--$Subject-->
+From: <!--$From-->
+To: <!--$To-->
+Cc:
+Bcc:
+Format: TEXT
+
+
+
+Estimado Jefe de Riesgo Operacional, usted tiene una nueva solicitud de servicio por revisar.
+Los Detalles de la Solicitud son las siguientes:
+
+CodSolicitud:	<!--key-->
+Asunto:		<!--Subject-->
+Usuario:	<!--usuario-->
+Registró:	<!--registro-->
+

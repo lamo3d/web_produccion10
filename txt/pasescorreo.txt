@@ -1,0 +1,20 @@
+Subject: <!--$Subject-->
+From: <!--$From-->
+To: <!--$To-->
+Cc: <!--$Cc-->
+Bcc:
+Format: TEXT
+
+<!--correo-->
+
+PaseEspecial:	<!--codpaseespecial-->
+HelpDesk:			<!--helpdesk-->
+Analista:			<!--analista-->
+
+
+Descripcion:	
+<!--descripcion-->
+
+query:				
+<!--query-->
+

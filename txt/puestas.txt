@@ -1,0 +1,88 @@
+Subject:   	<!--$Subject-->
+From: 		<!--$From-->
+To: 		<!--$To-->
+Cc:
+Bcc:
+Format: HTML
+
+<style type="text/css">
+<!--
+.style1 {font-family: Verdana, Arial, Helvetica, sans-serif}
+.style2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-style: italic;
+}
+-->
+</style>
+<p class="style1">&nbsp;</p>
+
+Señs, para solicitarles la revisióe la solicitud de puesta en produccióel asunto.
+Los detalles generales de la solicitud son:
+
+
+<table width="954" border="1">
+  <tr>
+    <th width="112" scope="row"><div align="left">Asunto:</div></th>
+    <td width="826"><!--table--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">CodPase:</div></th>
+    <td><!--key--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">CodHelpDesk: </div></th>
+    <td><!--CodHelpDesk--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Titulo: </div></th>
+    <td><!--titulo--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Usuario: </div></th>
+    <td><!--usuarioLider--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Analista: </div></th>
+    <td><!--Analista--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Jefe Proyecto: </div></th>
+    <td><!--JefeProyecto--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Resultado: </div></th>
+    <td><!--action--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Motivo: </div></th>
+    <td><!--motivo--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Evaluador: </div></th>
+    <td><!--evalua--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Prioridad:</div></th>
+    <td><!--prioridad--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Observaciones:</div></th>
+    <td><!--observaciones--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Aplicativos Actualizados:</div></th>
+    <td><!--aplicaexite--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Aplicativos Nuevos:</div></th>
+    <td><!--aplicanuevo--></td>
+  </tr>
+</table>
+
+
+
+<p>&nbsp;</p>
+<p class="style2">&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

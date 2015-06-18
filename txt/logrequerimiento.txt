@@ -1,0 +1,49 @@
+Subject: <!--$Subject-->
+From: <!--$From-->
+To: <!--$To-->
+Cc:
+Bcc:
+Format: HTML
+
+
+<p><h3>Estimado Jefe de Desarrollo de Sistemas, para informarle que se han cambiado definiciones (tiempo, alcance, recursos) en la gestion del requerimiento/proyecto:</h3></p>
+
+<table width="998" border="1">
+  <tr>
+    <th width="147" scope="row"><div align="left">codrequerimiento:</div></th>
+    <td width="835"><!--key--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">titulo:</div></th>
+    <td><!--titulo--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">analista lider:</div></th>
+    <td><!--analista--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">jefe proyecto:</div></th>
+    <td><!--jefe--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">fecha inicio:</div></th>
+    <td><!--fecini--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">fecha termino:</div></th>
+    <td><!--fecfin--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">estado:</div></th>
+    <td><!--estado--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">motivo:</div></th>
+    <td><!--motivo--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">registró:</div></th>
+    <td><!--registro--></td>
+  </tr>
+
+</table>

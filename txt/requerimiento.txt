@@ -1,0 +1,84 @@
+Subject:   <!--$Subject-->
+From: <!--$From-->
+To: <!--$To-->
+Cc:
+Bcc:
+Format: HTML
+
+
+<h3>Señor Analista, usted tiene asignado un nuevo requerimiento de desarrollo de software. </h3>
+<h3>Coordine con su Jefe de Proyecto la fecha solicitada de termino y coordine con el Usuario lider el analisis de sus requerimientos funcionales.  </h3>
+<h3>Recuerde que el pase a produccion debera realizarlo 1 dia antes de  la fecha de termino.
+  
+  Los detalles del requerimiento son los siguientes: </h3>
+
+<p>&nbsp;</p>
+<table width="1176" border="1">
+  <tr>
+    <th scope="row"><div align="left">Código:</div></th>
+    <td><!--key--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Tipo:</div></th>
+    <td><!--Tipo--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Sistema: </div></th>
+    <td><!--servicio--></td>
+  </tr>
+    <th scope="row"><div align="left">Titulo: </div></th>
+    <td><!--titulo--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Acción: </div></th>
+    <td><!--action--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">UsuarioLider:</div></th>
+    <td><!--Usuario--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Analista:</div></th>
+    <td><!--Analista--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Jefe Proyecto:</div></th>
+    <td><!--JefeProyecto--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">F. Inicio:</div></th>
+    <td><!--Finicio--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">F. Termino Propuesto:</div></th>
+    <td><!--FTerPropu--></td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+<table width="825" border="1">
+  <caption>
+    <em><strong>V°B° de Jefe de Riesgo Operacional </strong></em>
+  </caption>
+  <tr>
+    <th width="92" scope="row"><div align="left">Impacto</div></th>
+    <td width="717"><!--impacto--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Participaci&oacute;n</div></th>
+    <td><!--participa--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Justificativa</div></th>
+    <td><!--justifica--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Recomendaci&oacute;n</div></th>
+    <td><!--recomenda--></td>
+  </tr>
+</table>
+<h2>&nbsp;</h2>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+

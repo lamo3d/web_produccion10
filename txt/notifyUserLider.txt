@@ -1,0 +1,26 @@
+Subject: <!--$Subject-->
+From: <!--$From-->
+To: <!--$To-->
+Cc:
+Bcc:
+Format: TEXT
+
+Señor usuario para informale que el área de sistemas ha implementado una pagina web a través del cual usted podra registrar sus solicitudes de desarrollo de software, para poder atenderle de una manera ordenada y eficiente.
+
+La dirección de la página de sistemas es la siguiente:
+En las oficinas de la ciudad de Chiclayo:    http://90.0.0.147/produccion
+En las oficinas de la ciudad de Lima:        http://10.1.6.6/produccion
+
+Para Ingresar a la Página deberá ingresar su usuario y clave que son los siguientes:
+usuario:	<!--usuario-->
+clave:		<!--clave-->
+
+
+- Se le recomienda descargar y leer el manual de usuario de la Página de Sistemas, para enterarse de la manera de operar, las ventajas y funcionalidades que ofrece.
+- El manual lo puede descargar haciendo clic en la penultima opcion del menu del lado izquiero de la pagina.
+- Tambien le informamos que los manuales de usuarios de los aplicativos los puede encontrar en la página de sistemas en la siguiente ruta: Documentos -> Manual de Usuario
+
+
+
+
+

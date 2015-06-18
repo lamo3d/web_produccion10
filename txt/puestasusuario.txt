@@ -1,0 +1,74 @@
+Subject:   	<!--$Subject-->
+From: 		<!--$From-->
+To: 		<!--$To-->
+Cc:
+Bcc:
+Format: HTML
+
+
+
+
+<p><strong>Estimados Se&ntilde;ores, el Area de Sistemas les informa que su solicitud de desarrollo de software del asunto ya fue atendida y puesta en producci&oacute;n, </strong></p>
+<p><em><strong>Es responsabilidad del Usuario Lider realizar las siguientes validaciones y responder sobre este correo su conformidad u observaciones dentro de los siguientes 07 d&iacute;as h&aacute;biles; de lo contrario se asumir&aacute; que est&aacute; conforme con el desarrollo.</strong></em></p>
+<ul>
+  <li>Si lo que solicit&oacute; a desarrollar es un reporte, por favor verificar que la data que muestra sea consistente y correcta.</li>
+  <li>Si lo que solicit&oacute; a desarrollar fue un aplicativo, por favor verifique que cumpla sus requerimientos solicitados en su solicitud de servicio.</li>
+  <li>Por favor ponerle enfasis en las validaciones referentes a Funcionalidades de Control.</li>
+  <li>Si desea que se le agregue mas funcionalidad a lo desarrollado y este no ha sido especificado en su solicitud de servicio, tiene que registrar otra solicitud de servicio.</li>
+  <li>Si lo que solicit&oacute; a desarrollar afecta a toda la cia, sirvace comunicar que la nueva funcionalidad de los aplicativos ya est&aacute; instalada. Se entiende que previamente usted debi&oacute; haber asesorado y capacitado sobre la nueva funcionalidad.</li>
+  <li>Los Manuales de Usuarios de los aplicativos los puede encontrar en la misma pagina de sistemas en la siguiente ruta: Documentos -> Manual de Usuario.</li>
+  <li>Solicite el acceso de los nuevos aplicativos al Oficial de Seguridad de la Informaci&oacute;n, seguridadsistemas@efectiva.com.pe.</li>
+</ul>
+<p>&nbsp;</p>
+<table width="954" border="1">
+  <tr>
+    <th width="180" scope="row"><div align="left">Asunto:</div></th>
+    <td width="758"><!--table--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">CodSolicitud:</div></th>
+    <td><!--keysoli--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">CodPase:</div></th>
+    <td><!--key--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">CodHelpDesk:</div></th>
+    <td><!--CodHelpDesk--></td>
+  </tr>
+
+  <tr>
+    <th scope="row"><div align="left">Titulo: </div></th>
+    <td><!--titulo--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Usuario Lider: </div></th>
+    <td><!--usuarioLider--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Gerente Lider: </div></th>
+    <td><!--gerenteLider--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Analista: </div></th>
+    <td><!--Analista--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Jefe Proyecto: </div></th>
+    <td><!--JefeProyecto--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Aplicativos Actualizados:</div></th>
+    <td><!--aplicaexite--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Aplicativos Nuevos:</div></th>
+    <td><!--aplicanuevo--></td>
+  </tr>
+</table>
+
+
+<p>&nbsp;</p>
+<p><em><strong>	Sin mas que informar quedamos de Usted.</strong></em></p>
+<p><em><strong>Area de Sistemas, Automatizando Procesos Inform&aacute;ticos.</strong></em></p>

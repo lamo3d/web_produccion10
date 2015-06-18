@@ -1,0 +1,18 @@
+Subject: <!--$Subject-->
+From: <!--$From-->
+To: <!--$To-->
+Cc:
+Bcc:
+Format: TEXT
+
+Asunto:		<!--Subject-->
+CodSolicitud:	<!--key-->
+Titulo: 		<!--titulo-->
+Usuario Lider:	<!--usuario-->
+Gerente:		<!--gerente-->
+Evaluador:		<!--evalua-->
+
+Resultado:		<!--resultado-->
+Motivo:		<!--motivo-->
+Observaciones:	
+<!--observa-->

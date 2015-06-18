@@ -1,0 +1,34 @@
+Subject: <!--$Subject-->
+From: <!--$From-->
+To: <!--$To-->
+Cc: <!--$Cc-->
+Bcc:
+Format: TEXT
+
+<!--cuerpo-->
+
+id_cotizacion:		<!--id_cotizacion-->
+id_req:						<!--id_req-->
+requerimiento:		<!--requerimiento-->
+fecha_solcotiza: 	<!--fecha_solcotiza-->
+jefe_proy:				<!--jefe_proy-->
+
+fecha_cotiza:		<!--fecha_cotiza-->
+cotizador:			<!--cotizador-->
+importe:				<!--importe-->
+horas:					<!--horas-->
+
+JefeDes SS:			<!--jefedes_ss-->
+fecha:					<!--fechades_ss-->
+
+Revisiones:
+Evaluador:		  <!--evaluador-->
+Nivel:					<!--nivel-->
+fecha:					<!--fecha_evalua-->
+resultado: 			<!--resul_evalua-->
+
+
+factura:				<!--factura-->
+fecha_factura:	<!--fecha_factura-->
+importe:				<!--importe_factura-->
+porcentaje:			<!--porcentaje-->

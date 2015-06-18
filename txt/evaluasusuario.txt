@@ -1,0 +1,63 @@
+Subject:   	<!--$Subject-->
+From: 		<!--$From-->
+To: 		<!--$To-->
+Cc:
+Bcc:
+Format: HTML
+
+
+
+<p><strong>Estimados Se&ntilde;or, para informarle que su Solicitud de Servicio de Desarrollo de Software, ya ha sido evaluada por el Jefe de Desarrollo de Sistemas.</strong></p>
+<p><strong>A continuaci&oacute;n el detalle de la evaluaci&oacute;n:</strong></p>
+<p>&nbsp;</p>
+<table width="954" border="1">
+  <tr>
+    <th width="112" scope="row"><div align="left">Asunto:</div></th>
+    <td width="826"><!--table--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">CodSolicitud:</div></th>
+    <td><!--key--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Titulo: </div></th>
+    <td><!--titulo--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Resultado: </div></th>
+    <td><!--resultado--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Motivo Resultado: </div></th>
+    <td><!--motivo--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">CodRequerimiento:</div></th>
+    <td><!--codreque--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Usuario Lider: </div></th>
+    <td><!--usuariolider--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Gerente Lider: </div></th>
+    <td><!--gerentelider--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Analista: </div></th>
+    <td><!--analista--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Jefe Proyecto: </div></th>
+    <td><!--jefeproyecto--></td>
+  </tr>
+  <tr>
+    <th scope="row"><div align="left">Observaciones: </div></th>
+    <td><!--observaciones--></td>
+  </tr>
+
+</table>
+
+
+
+<p><em><strong>Sin mas que informar .</strong></em></p>

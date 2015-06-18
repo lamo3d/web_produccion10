@@ -1,0 +1,20 @@
+Subject: <!--$Subject-->
+From: <!--$From-->
+To: <!--$To-->
+Cc:
+Bcc:
+Format: TEXT
+
+
+Estimado <!--estimado-->, para informarle que usted tiene una nueva solicitud de servicio por 
+evaluar o revisar la actualización de  una solicitud existente.
+
+Los Detalles de la Solicitud son las siguientes:
+
+
+CodSolicitud:	<!--key-->
+Asunto:	<!--Subject-->
+Usuario Lider:	<!--usuario-->
+Gerente Lider:	<!--gerente-->
+Registró:	<!--registro-->
+Descripcion:	<!--descripcion-->
